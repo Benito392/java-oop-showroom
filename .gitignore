@@ -1,0 +1,15 @@
+# .NET / Visual Studio temp files
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+.vs/
+
+# Java temp files
+*.class
+*.jar
+*.war
+
+# VS Code specific
+.vscode/
